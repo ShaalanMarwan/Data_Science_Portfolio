@@ -17,3 +17,8 @@
     [Python notebook](https://github.com/ShaalanMarwan/Data_Science_Portfolio/blob/main/Linear_Regression/predict_housing_prices.ipynb) using Linear Regression to predict housing prices based on USA housing prices 
 
 
+- Logistic Regression
+  
+  [Python notebook](https://github.com/ShaalanMarwan/Data_Science_Portfolio/blob/main/Logistic_Regression/predict_advertisement_click.ipynb) using Logistic Regression to predict advertisement click based on advertisement dataset.
+  
+  [Python notebook](https://github.com/ShaalanMarwan/Data_Science_Portfolio/blob/main/Logistic_Regression/Titanic_Disaster.ipynb) using Logistic Regression to predict Survived people from titanic disaster after cleaning it from null and missing value.
